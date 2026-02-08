@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2, C3, C4, C5, C6, C7",0402,7,0.1uF,
+J1,PinSocket_1x04_P2.54mm_Vertical_Hole1.6,1,PinHeader_1x04_P2.54mm_Vertical,
+J2,PinSocket_1x05_P2.54mm_Vertical_Hole1.6,1,PinHeader_1x05_P2.54mm_Vertical,
+"JP3, JP4, JP5, JP6, JP7, JP8",SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm,6,Jumper_2_Open,
+"LED1, LED10, LED11, LED12, LED13, LED14, LED15, LED16, LED17, LED18, LED2, LED3, LED4, LED5, LED6, LED7, LED8, LED9",LED XL-1010RGBC-WS2812B,18,XL-1010RGBC-WS2812B,C5349953
+R1,0402,1,330,
+"TP1, TP4, TP5, TP6",TestPoint_Pad_1.0x1.0mm,4,TestPoint_Alt,
+"TP2, TP3",TestPoint_THTPad_1.0x1.0mm_Drill0.8mm,2,TestPoint_Alt,
+U1,JEITA_SOIC-8_3.9x4.9mm_P1.27mm,1,CH32V003JxMx,
