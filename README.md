@@ -9,7 +9,7 @@ NeoPixel(WS2812)互換の1mmx1mmサイズのRGB LEDが左右に9個ずつ合計1
 M5Stack Atomシリーズ裏面のピンソケットに本基盤のピン部分を差し込んで取り付けます
 
 ### 使用するGPIO（ピン）
-<img src="docs/images/Jumper.jpg" width="360ps">  
+<img src="docs/images/jumper.jpg" width="360ps">  
 
 使用するGPIO端子は上記写真の赤枠のランドいずれかをはんだでショートすることにより選択できます  
 [BOOTH](https://washishi.booth.pm/)等で頒布するものは上記写真のように右側上から２番目の端子が既にショートされています  
@@ -77,3 +77,4 @@ UIFlowで利用する場合はHardwareでRGBを追加し利用するGPIOとLED�
 |:--|:--|:--|:-:|:-:|:-:|  
 |U1|マイコン|CH32V003J4M6|Nanjing Qinheng Microelectronics|1|[秋月電子](https://akizukidenshi.com/catalog/g/g118062/)|
 |C7|チップ積層セラミックコンデンサ|0.1uF 0402/1005(mm)サイズ|任意|1|[秋月電子](https://akizukidenshi.com/catalog/g/g113377/)(25個セット)|
+
